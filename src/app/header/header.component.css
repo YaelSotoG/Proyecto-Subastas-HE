@@ -28,8 +28,8 @@ hr{
     opacity: .8;
     margin: 5px;
     border: 10px double black;
-    position:fixed;
-    top: 7em;
+    position:absolute;
+    top: 15em;
     
 }
 
